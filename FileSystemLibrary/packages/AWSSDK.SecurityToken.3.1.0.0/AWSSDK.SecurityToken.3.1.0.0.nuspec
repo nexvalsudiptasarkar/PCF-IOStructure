@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AWSSDK.SecurityToken</id>
+    <version>3.1.0.0</version>
+    <title>AWSSDK - AWS Security Token Service</title>
+    <authors>Amazon Web Services</authors>
+    <owners>Amazon Web Services</owners>
+    <licenseUrl>http://aws.amazon.com/apache2.0/</licenseUrl>
+    <projectUrl>https://github.com/aws/aws-sdk-net/</projectUrl>
+    <iconUrl>http://media.amazonwebservices.com/aws_singlebox_01.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The AWS Security Token Service (AWS STS) enables you to provide trusted users with temporary credentials that provide controlled access to your AWS resources.</description>
+    <language>en-US</language>
+    <tags>AWS Amazon cloud SecurityTokenService aws-sdk-v3</tags>
+    <dependencies>
+      <group>
+        <dependency id="AWSSDK.Core" version="[3.1.0.0, 3.2)" />
+      </group>
+      <group targetFramework=".NETPortable0.0-net45+win+wpa81+wp80+MonoAndroid10+xamarinios10+MonoTouch10">
+        <dependency id="AWSSDK.Core" version="[3.1.0.0, 3.2)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

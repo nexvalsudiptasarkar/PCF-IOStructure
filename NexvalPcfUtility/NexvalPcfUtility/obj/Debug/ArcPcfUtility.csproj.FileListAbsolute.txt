@@ -1,0 +1,5 @@
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\ArcPcfUtility\ArcPcfUtility\bin\Debug\ArcPcfUtility.dll
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\ArcPcfUtility\ArcPcfUtility\bin\Debug\ArcPcfUtility.pdb
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\ArcPcfUtility\ArcPcfUtility\obj\Debug\ArcPcfUtility.csprojResolveAssemblyReference.cache
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\ArcPcfUtility\ArcPcfUtility\obj\Debug\ArcPcfUtility.dll
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\ArcPcfUtility\ArcPcfUtility\obj\Debug\ArcPcfUtility.pdb

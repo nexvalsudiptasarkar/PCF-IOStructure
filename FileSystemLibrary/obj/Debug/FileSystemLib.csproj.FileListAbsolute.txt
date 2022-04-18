@@ -1,0 +1,29 @@
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\FileSystemLib.dll
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\FileSystemLib.pdb
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\AWSSDK.dll
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\FileSystemLibrary\obj\Debug\FileSystemLib.csprojResolveAssemblyReference.cache
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\FileSystemLibrary\obj\Debug\FileSystemLib.dll
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\FileSystemLibrary\obj\Debug\FileSystemLib.pdb
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\ArcPcfUtility.dll
+E:\Projects\Skysite\Windows Services\Source\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\ArcPcfUtility.pdb
+D:\Project\SKYSITE Shared Components\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\FileSystemLib.dll
+D:\Project\SKYSITE Shared Components\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\FileSystemLib.pdb
+D:\Project\SKYSITE Shared Components\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\ArcPcfUtility.dll
+D:\Project\SKYSITE Shared Components\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Project\SKYSITE Shared Components\SKYSITE Shared Components\FileSystemLibrary\bin\Debug\ArcPcfUtility.pdb
+D:\Project\SKYSITE Shared Components\SKYSITE Shared Components\FileSystemLibrary\obj\Debug\FileSystemLib.csproj.AssemblyReference.cache
+D:\Project\SKYSITE Shared Components\SKYSITE Shared Components\FileSystemLibrary\obj\Debug\FileSystemLib.csproj.CoreCompileInputs.cache
+D:\Project\SKYSITE Shared Components\SKYSITE Shared Components\FileSystemLibrary\obj\Debug\FileSystemLib.csproj.CopyComplete
+D:\Project\SKYSITE Shared Components\SKYSITE Shared Components\FileSystemLibrary\obj\Debug\FileSystemLib.dll
+D:\Project\SKYSITE Shared Components\SKYSITE Shared Components\FileSystemLibrary\obj\Debug\FileSystemLib.pdb
+D:\Project\PCF-IOStructure\FileSystemLibrary\bin\Debug\FileSystemLib.dll
+D:\Project\PCF-IOStructure\FileSystemLibrary\bin\Debug\FileSystemLib.pdb
+D:\Project\PCF-IOStructure\FileSystemLibrary\bin\Debug\ArcPcfUtility.dll
+D:\Project\PCF-IOStructure\FileSystemLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Project\PCF-IOStructure\FileSystemLibrary\bin\Debug\ArcPcfUtility.pdb
+D:\Project\PCF-IOStructure\FileSystemLibrary\obj\Debug\FileSystemLib.csproj.AssemblyReference.cache
+D:\Project\PCF-IOStructure\FileSystemLibrary\obj\Debug\FileSystemLib.csproj.CoreCompileInputs.cache
+D:\Project\PCF-IOStructure\FileSystemLibrary\obj\Debug\FileSystemLib.csproj.CopyComplete
+D:\Project\PCF-IOStructure\FileSystemLibrary\obj\Debug\FileSystemLib.dll
+D:\Project\PCF-IOStructure\FileSystemLibrary\obj\Debug\FileSystemLib.pdb
