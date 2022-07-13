@@ -47,3 +47,20 @@ D:\Project\PCF-IOStructure\FileSystemLibUT\obj\Debug\FileSystemLibUT.csproj.Core
 D:\Project\PCF-IOStructure\FileSystemLibUT\obj\Debug\FileSystemLibUT.csproj.CopyComplete
 D:\Project\PCF-IOStructure\FileSystemLibUT\obj\Debug\FileSystemLibUT.exe
 D:\Project\PCF-IOStructure\FileSystemLibUT\obj\Debug\FileSystemLibUT.pdb
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\bin\Debug\FileSystemLibUT.exe.config
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\bin\Debug\FileSystemLibUT.exe
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\bin\Debug\FileSystemLibUT.pdb
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\bin\Debug\ArcPcfUtility.dll
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\bin\Debug\FileSystemLib.dll
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\bin\Debug\AWSSDK.dll
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\bin\Debug\Newtonsoft.Json.dll
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\bin\Debug\ArcPcfUtility.pdb
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\bin\Debug\FileSystemLib.pdb
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\obj\Debug\FileSystemLibUT.csproj.AssemblyReference.cache
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\obj\Debug\FileSystemLibUT.FileSystemLibUTForm.resources
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\obj\Debug\FileSystemLibUT.Properties.Resources.resources
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\obj\Debug\FileSystemLibUT.csproj.GenerateResource.cache
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\obj\Debug\FileSystemLibUT.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\obj\Debug\FileSystemLibUT.csproj.CopyComplete
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\obj\Debug\FileSystemLibUT.exe
+D:\Project\NexAEI 2.0\PCF-Service\FileSystemLibUT\obj\Debug\FileSystemLibUT.pdb

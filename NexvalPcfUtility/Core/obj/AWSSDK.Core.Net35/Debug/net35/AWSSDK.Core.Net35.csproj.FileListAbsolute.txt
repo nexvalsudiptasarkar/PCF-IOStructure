@@ -1,0 +1,11 @@
+D:\Project\aws-sdk-net-master\sdk\src\Core\bin\Debug\net35\AWSSDK.Core.dll
+D:\Project\aws-sdk-net-master\sdk\src\Core\bin\Debug\net35\AWSSDK.Core.pdb
+D:\Project\aws-sdk-net-master\sdk\src\Core\bin\Debug\net35\AWSSDK.Core.xml
+D:\Project\aws-sdk-net-master\sdk\src\Core\obj\AWSSDK.Core.Net35\Debug\net35\AWSSDK.Core.Net35.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\aws-sdk-net-master\sdk\src\Core\obj\AWSSDK.Core.Net35\Debug\net35\AWSSDK.Core.Net35.AssemblyInfoInputs.cache
+D:\Project\aws-sdk-net-master\sdk\src\Core\obj\AWSSDK.Core.Net35\Debug\net35\AWSSDK.Core.Net35.AssemblyInfo.cs
+D:\Project\aws-sdk-net-master\sdk\src\Core\obj\AWSSDK.Core.Net35\Debug\net35\AWSSDK.Core.Net35.csproj.CoreCompileInputs.cache
+D:\Project\aws-sdk-net-master\sdk\src\Core\obj\AWSSDK.Core.Net35\Debug\net35\PlatformCompat.Analyzers.settings
+D:\Project\aws-sdk-net-master\sdk\src\Core\obj\AWSSDK.Core.Net35\Debug\net35\AWSSDK.Core.dll
+D:\Project\aws-sdk-net-master\sdk\src\Core\obj\AWSSDK.Core.Net35\Debug\net35\AWSSDK.Core.xml
+D:\Project\aws-sdk-net-master\sdk\src\Core\obj\AWSSDK.Core.Net35\Debug\net35\AWSSDK.Core.pdb

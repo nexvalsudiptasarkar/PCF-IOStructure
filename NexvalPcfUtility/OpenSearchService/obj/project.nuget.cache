@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGQM82HmISiuGPxB7y8lyIux86NBhIDS6ovPJCtcsAZrkfpFIdESygkXmdfJAfkVQNAhjvOPOWe8uj6zv/Huog==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\NexAEI 2.0\\PCF-Service\\NexvalPcfUtility\\OpenSearchService\\AWSSDK.OpenSearchService.Net45.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.9.3\\microsoft.codeanalysis.fxcopanalyzers.2.9.3.nupkg.sha512",
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\2.9.3\\microsoft.codeanalysis.versioncheckanalyzer.2.9.3.nupkg.sha512",
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.3\\microsoft.codequality.analyzers.2.9.3.nupkg.sha512",
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\microsoft.dotnet.analyzers.compatibility\\0.2.12-alpha\\microsoft.dotnet.analyzers.compatibility.0.2.12-alpha.nupkg.sha512",
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.3\\microsoft.netcore.analyzers.2.9.3.nupkg.sha512",
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\microsoft.netframework.analyzers\\2.9.3\\microsoft.netframework.analyzers.2.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}

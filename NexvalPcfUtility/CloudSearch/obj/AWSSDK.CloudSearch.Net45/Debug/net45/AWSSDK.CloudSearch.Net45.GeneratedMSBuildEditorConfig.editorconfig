@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AWSSDK.CloudSearch.Net45
+build_property.ProjectDir = D:\Project\aws-sdk-net-master\sdk\src\Services\CloudSearch\

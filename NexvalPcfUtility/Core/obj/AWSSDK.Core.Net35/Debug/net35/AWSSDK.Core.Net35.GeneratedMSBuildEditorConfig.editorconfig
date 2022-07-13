@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AWSSDK.Core.Net35
+build_property.ProjectDir = D:\Project\aws-sdk-net-master\sdk\src\Core\

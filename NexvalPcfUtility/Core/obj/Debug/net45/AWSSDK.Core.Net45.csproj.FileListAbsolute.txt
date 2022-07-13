@@ -1,0 +1,13 @@
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\obj\Debug\net45\AWSSDK.Core.Net45.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\obj\Debug\net45\AWSSDK.Core.Net45.AssemblyInfoInputs.cache
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\obj\Debug\net45\AWSSDK.Core.Net45.AssemblyInfo.cs
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\obj\Debug\net45\AWSSDK.Core.Net45.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\obj\Debug\net45\PlatformCompat.Analyzers.settings
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\bin\Debug\net45\AWSSDK.Core.dll
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\bin\Debug\net45\AWSSDK.Core.pdb
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\bin\Debug\net45\AWSSDK.Core.xml
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\bin\Debug\net45\CustomRoslynAnalyzers.dll
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\obj\Debug\net45\AWSSDK.Core.Net45.csproj.CopyComplete
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\obj\Debug\net45\AWSSDK.Core.dll
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\obj\Debug\net45\AWSSDK.Core.xml
+D:\Project\NexAEI 2.0\PCF-Service\NexvalPcfUtility\Core\obj\Debug\net45\AWSSDK.Core.pdb

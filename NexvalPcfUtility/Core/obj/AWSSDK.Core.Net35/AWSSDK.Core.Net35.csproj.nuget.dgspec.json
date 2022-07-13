@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project\\aws-sdk-net-master\\sdk\\src\\Core\\AWSSDK.Core.Net35.csproj": {}
+  },
+  "projects": {
+    "D:\\Project\\aws-sdk-net-master\\sdk\\src\\Core\\AWSSDK.Core.Net35.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\aws-sdk-net-master\\sdk\\src\\Core\\AWSSDK.Core.Net35.csproj",
+        "projectName": "AWSSDK.Core",
+        "projectPath": "D:\\Project\\aws-sdk-net-master\\sdk\\src\\Core\\AWSSDK.Core.Net35.csproj",
+        "packagesPath": "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\aws-sdk-net-master\\sdk\\src\\Core\\obj\\AWSSDK.Core.Net35\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Project\\aws-sdk-net-master\\sdk\\.nuget\\NuGet.Config",
+          "D:\\Project\\aws-sdk-net-master\\sdk\\NuGet.Config",
+          "C:\\Users\\sudipta.sarkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "Microsoft.DotNet.Analyzers.Compatibility": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.2.12-alpha, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
